@@ -16,7 +16,7 @@
 - 🎨 Designing intuitive interfaces and case studies with Figma and Framer  
 - 🧠 Exploring AI/ML fundamentals and practical applications  
 - 🌐 Web Development with HTML, CSS, JavaScript  
-- 📱 Interested in Android development and no-code tools
+- 📱 Interested in Android development and AI Enhanced Development
 
 ---
 
