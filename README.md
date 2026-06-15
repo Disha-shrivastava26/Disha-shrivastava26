@@ -24,13 +24,13 @@
 
 - **Programming Languages:** C++, Python, Java, JavaScript (ES6+)
 
--**Frontend Development:** HTML5, CSS3, JavaScript (ES6+)
+- **Frontend Development:** HTML5, CSS3, JavaScript (ES6+)
 
--**Tools & Platforms:** Git, GitHub, Figma, Framer, Canva
+- **Tools & Platforms:** Git, GitHub, Figma, Framer, Canva
 
--**Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming (OOP), DOM Manipulation, Asynchronous JavaScript, REST APIs
+- **Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming (OOP), DOM Manipulation, Asynchronous JavaScript, REST APIs
 
--**Currently Learning:** React.js, DBMS, UI/UX Research, Responsive Web Design, Full-Stack Development
+- **Currently Learning:** React.js, DBMS, UI/UX Research, Responsive Web Design, Full-Stack Development
 
 ---
 
