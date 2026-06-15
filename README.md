@@ -22,10 +22,15 @@
 
 ## 🔧 Tools & Technologies
 
-- Languages: `C++`, `Python`, `JavaScript`,`Java`
-- Design: `Figma`, `Framer`, `Canva`
-- Web: `HTML`, `CSS`, `Git`, `GitHub`
-- Learning: `DBMS`, `Java`, `UI/UX Research`, `Responsive Design`
+- **Programming Languages:** C++, Python, Java, JavaScript (ES6+)
+
+**Frontend Development:** HTML5, CSS3, JavaScript (ES6+)
+
+**Tools & Platforms:** Git, GitHub, Figma, Framer, Canva
+
+**Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming (OOP), DOM Manipulation, Asynchronous JavaScript, REST APIs
+
+**Currently Learning:** React.js, DBMS, UI/UX Research, Responsive Web Design, Full-Stack Development
 
 ---
 
