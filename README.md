@@ -16,7 +16,7 @@
 - 🎨 Designing intuitive interfaces and case studies with Figma and Framer  
 - 🧠 Exploring AI/ML fundamentals and practical applications  
 - 🌐 Web Development with HTML, CSS, JavaScript  
-- 📱 Interested in Android development and AI Enhanced Development
+  
 
 ---
 
@@ -30,7 +30,7 @@
 
 - **Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming (OOP), DOM Manipulation, Asynchronous JavaScript, REST APIs
 
-- **Currently Learning:** React.js, DBMS, UI/UX Research, Responsive Web Design, Full-Stack Development
+- **Currently Learning:** DBMS, UI/UX Research, Responsive Web Design, Full-Stack Development
 
 ---
 
